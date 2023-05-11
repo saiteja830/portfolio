@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: #333;
+    color: aliceblue;
+}
+nav ul li{
+    display:inline;
+    padding: 20px;
+
+}
+
+nav ul li a{
+    color: beige;
+    text-decoration: none;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+#Portfolio{
+    background-color: antiquewhite;
+}
+footer{
+    background-color: black;
+    color: whitesmoke;
+}
+#Skills
+li{
+
+    display: block;
+}
